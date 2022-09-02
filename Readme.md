@@ -32,5 +32,5 @@ go test -run none -bench . -benchmem -benchtime=10s
 ```
 
 ## Resources
-https://www.mongodb.com/docs/drivers/go/current/fundamentals/bson/
-https://developers.google.com/protocol-buffers/docs/gotutorial
+- https://www.mongodb.com/docs/drivers/go/current/fundamentals/bson/
+- https://developers.google.com/protocol-buffers/docs/gotutorial
